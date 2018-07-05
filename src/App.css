@@ -1,0 +1,8 @@
+.App .button-wrapper {
+    text-align: center;
+    margin: 5px 0;
+}
+
+.App .button-wrapper button {
+    cursor: pointer;
+}

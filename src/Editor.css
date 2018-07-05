@@ -1,0 +1,8 @@
+.editor .button-wrapper {
+    text-align: center;
+}
+
+.editor .button-wrapper button {
+    margin-top: 5px;
+    cursor: pointer;
+}
